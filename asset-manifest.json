@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rishabh-441/TextUtils/static/css/main.76aec624.css",
+    "main.js": "/Rishabh-441/TextUtils/static/js/main.58024de7.js",
+    "static/js/453.ed3810f9.chunk.js": "/Rishabh-441/TextUtils/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Rishabh-441/TextUtils/index.html",
+    "main.76aec624.css.map": "/Rishabh-441/TextUtils/static/css/main.76aec624.css.map",
+    "main.58024de7.js.map": "/Rishabh-441/TextUtils/static/js/main.58024de7.js.map",
+    "453.ed3810f9.chunk.js.map": "/Rishabh-441/TextUtils/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aec624.css",
+    "static/js/main.58024de7.js"
+  ]
+}
